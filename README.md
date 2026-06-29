@@ -53,5 +53,5 @@
 
 <br>
 
-## 📈 Code Streak
+## 📈 BackJoon Code Streak
 ![Streak](./streak.svg)
