@@ -5,7 +5,8 @@
 <text text-anchor="end" dx="-10" dy="50" font-size="9" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Wed</text>
 <text text-anchor="end" dx="-10" dy="78" font-size="9" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Fri</text>
 <g transform="translate(0, 0)">
-<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 2025</text>
+<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2025</text>
+<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun</text>
 <rect width="10" height="10" y="0" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="14" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="28" fill="#161b22" rx="2"/>
@@ -15,7 +16,8 @@
 <rect width="10" height="10" y="84" fill="#161b22" rx="2"/>
 </g>
 <g transform="translate(14, 0)">
-<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jul 2025</text>
+<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2025</text>
+<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jul</text>
 <rect width="10" height="10" y="0" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="14" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="28" fill="#161b22" rx="2"/>
@@ -52,7 +54,8 @@
 <rect width="10" height="10" y="84" fill="#161b22" rx="2"/>
 </g>
 <g transform="translate(70, 0)">
-<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Aug 2025</text>
+<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2025</text>
+<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Aug</text>
 <rect width="10" height="10" y="0" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="14" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="28" fill="#161b22" rx="2"/>
@@ -98,7 +101,8 @@
 <rect width="10" height="10" y="84" fill="#161b22" rx="2"/>
 </g>
 <g transform="translate(140, 0)">
-<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Sep 2025</text>
+<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2025</text>
+<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Sep</text>
 <rect width="10" height="10" y="0" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="14" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="28" fill="#161b22" rx="2"/>
@@ -135,7 +139,8 @@
 <rect width="10" height="10" y="84" fill="#161b22" rx="2"/>
 </g>
 <g transform="translate(196, 0)">
-<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Oct 2025</text>
+<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2025</text>
+<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Oct</text>
 <rect width="10" height="10" y="0" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="14" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="28" fill="#161b22" rx="2"/>
@@ -172,7 +177,8 @@
 <rect width="10" height="10" y="84" fill="#161b22" rx="2"/>
 </g>
 <g transform="translate(252, 0)">
-<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Nov 2025</text>
+<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2025</text>
+<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Nov</text>
 <rect width="10" height="10" y="0" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="14" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="28" fill="#161b22" rx="2"/>
@@ -218,7 +224,8 @@
 <rect width="10" height="10" y="84" fill="#161b22" rx="2"/>
 </g>
 <g transform="translate(322, 0)">
-<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Dec 2025</text>
+<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2025</text>
+<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Dec</text>
 <rect width="10" height="10" y="0" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="14" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="28" fill="#161b22" rx="2"/>
@@ -255,7 +262,8 @@
 <rect width="10" height="10" y="84" fill="#161b22" rx="2"/>
 </g>
 <g transform="translate(378, 0)">
-<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jan 2026</text>
+<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2026</text>
+<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jan</text>
 <rect width="10" height="10" y="0" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="14" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="28" fill="#161b22" rx="2"/>
@@ -292,7 +300,8 @@
 <rect width="10" height="10" y="84" fill="#161b22" rx="2"/>
 </g>
 <g transform="translate(434, 0)">
-<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Feb 2026</text>
+<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2026</text>
+<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Feb</text>
 <rect width="10" height="10" y="0" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="14" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="28" fill="#161b22" rx="2"/>
@@ -329,7 +338,8 @@
 <rect width="10" height="10" y="84" fill="#161b22" rx="2"/>
 </g>
 <g transform="translate(490, 0)">
-<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Mar 2026</text>
+<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2026</text>
+<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Mar</text>
 <rect width="10" height="10" y="0" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="14" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="28" fill="#161b22" rx="2"/>
@@ -375,7 +385,8 @@
 <rect width="10" height="10" y="84" fill="#161b22" rx="2"/>
 </g>
 <g transform="translate(560, 0)">
-<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Apr 2026</text>
+<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2026</text>
+<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Apr</text>
 <rect width="10" height="10" y="0" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="14" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="28" fill="#161b22" rx="2"/>
@@ -412,7 +423,8 @@
 <rect width="10" height="10" y="84" fill="#161b22" rx="2"/>
 </g>
 <g transform="translate(616, 0)">
-<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">May 2026</text>
+<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2026</text>
+<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">May</text>
 <rect width="10" height="10" y="0" fill="#0e4429" rx="2"/>
 <rect width="10" height="10" y="14" fill="#39d353" rx="2"/>
 <rect width="10" height="10" y="28" fill="#39d353" rx="2"/>
@@ -458,7 +470,8 @@
 <rect width="10" height="10" y="84" fill="#161b22" rx="2"/>
 </g>
 <g transform="translate(686, 0)">
-<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun 2026</text>
+<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">2026</text>
+<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Jun</text>
 <rect width="10" height="10" y="0" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="14" fill="#161b22" rx="2"/>
 <rect width="10" height="10" y="28" fill="#161b22" rx="2"/>
