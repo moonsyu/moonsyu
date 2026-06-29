@@ -1,6 +1,8 @@
 <div align="center">
   <!-- 백준 티어 위젯 -->
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sangok0104" alt="Solved.ac Profile" />
+  <!-- 깃허브 통계(티어) 위젯 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=heavenring&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
 </div>
 
 <br>
