@@ -52,3 +52,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 <br>
+
+## 📈 Code Stric
+[![BackJoonCode Repo](https://github-readme-stats.vercel.app/api/pin/?username=moonsyu&repo=BackJoonCode&theme=radical)](https://github.com/heavenring/BackJoonCode)
