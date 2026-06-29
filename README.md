@@ -53,5 +53,5 @@
 
 <br>
 
-## 📈 Code Stric
-[![BackJoonCode Repo](https://github-readme-stats.vercel.app/api/pin/?username=moonsyu&repo=BackJoonCode&theme=radical)](https://github.com/heavenring/BackJoonCode)
+## 📈 Code Streak
+![Streak](./streak.svg)
