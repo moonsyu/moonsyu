@@ -40,11 +40,6 @@ def generate_svg(counts):
     start_date = today - timedelta(days=365)
     start_date = start_date - timedelta(days=(start_date.weekday() + 1) % 7)
     
-    # 상단 연도 및 총 커밋 수 텍스트 추가 (인라인 스타일 적용)
-    total_commits = sum(counts.values())
-    current_year = today.year
-    svg.append(f'<text x="20" y="30" font-size="14" font-weight="bold" fill="#c9d1d9" font-family="{font_family}">{total_commits} contributions in the last year ({current_year})</text>')
-    
     # 그래프 영역 시작
     svg.append(f'<g transform="translate({offset_x}, {offset_y})">')
     
@@ -65,11 +60,12 @@ def generate_svg(counts):
             if current_date > today:
                 break
                 
-            # 상단 월 라벨 (인라인 스타일 적용)
+            # 상단 월, 년도 라벨 (인라인 스타일 적용)
             if day == 0:
                 current_month = current_date.month
                 if current_month != last_month and week < 52:
-                    svg.append(f'<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="{font_family}">{month_names[current_month - 1]}</text>')
+                    current_year = current_date.year
+                    svg.append(f'<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="{font_family}">{month_names[current_month - 1]} {current_year}</text>')
                     last_month = current_month
 
             date_str = current_date.strftime("%Y-%m-%d")
