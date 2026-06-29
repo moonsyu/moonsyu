@@ -61,11 +61,16 @@ def generate_svg(counts):
             if current_date > today:
                 break
                 
-            # 상단 년도 및 월 라벨 (2단 표기)
+            # 상단 년도 및 월 라벨 (2단 표기, 2주 이상일 때만 표시)
             if day == 0:
                 current_month = current_date.month
                 current_year = current_date.year
-                if (current_month != last_month or current_year != last_year) and week < 52:
+                
+                # 다음 주차의 월을 미리 확인하여 1주만 존재하는지 판단
+                next_date = current_date + timedelta(weeks=1)
+                is_only_one_week = (next_date.month != current_month)
+                
+                if (current_month != last_month or current_year != last_year) and week < 52 and not is_only_one_week:
                     # 년도 (상단)
                     svg.append(f'<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="{font_family}">{current_year}</text>')
                     # 월 (하단)
