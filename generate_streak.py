@@ -61,15 +61,15 @@ def generate_svg(counts):
             if current_date > today:
                 break
                 
-            # 상단 월, 년도 라벨 겹침 방지 수정
+            # 상단 년도 및 월 라벨 (2단 표기)
             if day == 0:
                 current_month = current_date.month
                 current_year = current_date.year
-                # 달이 바뀌었거나, 1월이 되어 연도가 바뀌었을 때 표시
                 if (current_month != last_month or current_year != last_year) and week < 52:
-                    # 첫 번째 주차이거나 특정 간격일 때만 출력하도록 조건 추가
-                    label = f'{month_names[current_month - 1]} {current_year}'
-                    svg.append(f'<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="{font_family}">{label}</text>')
+                    # 년도 (상단)
+                    svg.append(f'<text x="0" y="-22" font-size="10" fill="#7d8590" font-family="{font_family}">{current_year}</text>')
+                    # 월 (하단)
+                    svg.append(f'<text x="0" y="-10" font-size="10" fill="#7d8590" font-family="{font_family}">{month_names[current_month - 1]}</text>')
                     last_month = current_month
                     last_year = current_year
 
