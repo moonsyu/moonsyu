@@ -29,7 +29,7 @@ def generate_svg(counts):
     box_size, gap = 10, 4
     offset_x, offset_y = 40, 50
     
-    font_family = '-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif'
+    font_family = "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
     
     svg = [f'<svg width="{svg_width}" height="{svg_height}" xmlns="http://www.w3.org/2000/svg">']
     
@@ -77,9 +77,9 @@ def generate_svg(counts):
             
             # 커밋 개수에 따른 색상 지정 로직
             if count == 0: color_idx = 0
-            elif count <= 2: color_idx = 1
-            elif count <= 4: color_idx = 2
-            elif count <= 6: color_idx = 3
+            elif count <= 1: color_idx = 1
+            elif count <= 2: color_idx = 2
+            elif count <= 3: color_idx = 3
             else: color_idx = 4
             
             color = colors[color_idx]
