@@ -500,7 +500,8 @@
 <rect width="10" height="10" y="0" fill="#26a641" rx="2"/>
 <rect width="10" height="10" y="14" fill="#39d353" rx="2"/>
 <rect width="10" height="10" y="28" fill="#161b22" rx="2"/>
-<rect width="10" height="10" y="42" fill="#161b22" rx="2"/>
+<rect width="10" height="10" y="42" fill="#39d353" rx="2"/>
+<rect width="10" height="10" y="56" fill="#161b22" rx="2"/>
 </g>
 </g>
 <g transform="translate(690, 155)">
